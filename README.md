@@ -8,9 +8,6 @@
   - my personal portfolio: [sadbunnygit.github.io](sadbunnygit.github.io)
   - [my music machine manager](https://github.com/sadbunnygit/musicmachine)
 -->
-<div style="display: flex; justify-content: center;">
-  <img
-    width="36%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbunnygit&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"
-  />
-</div>
+<p align="center">
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadbunnygit&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
+</p>
