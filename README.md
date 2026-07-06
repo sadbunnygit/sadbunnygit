@@ -9,5 +9,5 @@
   - [my music machine manager](https://github.com/sadbunnygit/musicmachine)
 -->
 <p align="center">
-  <img width="36%" src="https://github-stats-extended.vercel.app/api?username=octocat&theme=radical">
+  <img width="36%" src="https://github-stats-extended.vercel.app/api?username=sadbunnygit&theme=radical">
 </p>
