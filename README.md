@@ -11,3 +11,7 @@
 <p align="center">
   <img width="36%" src="https://github-stats-extended.vercel.app/api?username=sadbunnygit&show_icons=true&theme=material-palenight">
 </p>
+<p align="center">
+  <img width="36%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadbunnygit&show_icons=true&theme=material-palenight">
+</p>
+
