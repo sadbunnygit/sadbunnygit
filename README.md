@@ -9,7 +9,7 @@
   - [my music machine manager](https://github.com/sadbunnygit/musicmachine)
 -->
 <p align="center">
-  <img width="36%" src="https://github-stats-extended.vercel.app/api?username=sadbunnygit&show_icons=true&theme=material-palenight">
+  <img width="36%" src="./profile/stats.svg">
 </p>
 <p align="center">
   <img width="36%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadbunnygit&show_icons=true&theme=material-palenight">
