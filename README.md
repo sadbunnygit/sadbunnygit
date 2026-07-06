@@ -15,3 +15,4 @@
   <img width="36%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadbunnygit&show_icons=true&theme=material-palenight">
 </p>
 
+![Language Stats](stats/leaderboard_by_lines.png)
