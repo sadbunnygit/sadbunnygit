@@ -12,7 +12,6 @@
   <img width="36%" src="https://github-stats-extended.vercel.app/api?username=sadbunnygit&show_icons=true&theme=material-palenight">
 </p>
 <p align="center">
-  <img width="36%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadbunnygit&show_icons=true&theme=material-palenight">
+  <img width="100%" src="./stats/leaderboard_by_bytes.png">
 </p>
 
-![Language Stats](stats/leaderboard_by_lines.png)
