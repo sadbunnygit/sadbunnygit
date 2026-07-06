@@ -9,7 +9,7 @@
   - [my music machine manager](https://github.com/sadbunnygit/musicmachine)
 -->
 <p align="center">
-  <img height="120px" src="./profile/stats.svg">
-  <img height="120px" src="./profile/top-langs.svg">
+  <img height="160px" src="./profile/stats.svg">
+  <img height="160px" src="./profile/top-langs.svg">
 </p>
 
